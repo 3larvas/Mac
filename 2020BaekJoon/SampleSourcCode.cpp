@@ -12,6 +12,7 @@ using namespace std;
 int main(void){
     
     cout << " 커밋, 푸쉬 해보기 " << endl;
+    cout << " 커밋, 푸쉬 해보기2" << endl;
     
     return 0;
 }
