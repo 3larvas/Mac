@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		F8615465247FE2F90074F69C /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = F8615464247FE2F90074F69C /* main.cpp */; };
+		F8615465247FE2F90074F69C /* SampleSourcCode.cpp in Sources */ = {isa = PBXBuildFile; fileRef = F8615464247FE2F90074F69C /* SampleSourcCode.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -24,7 +24,7 @@
 
 /* Begin PBXFileReference section */
 		F8615461247FE2F90074F69C /* 2020BaekJoon */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = 2020BaekJoon; sourceTree = BUILT_PRODUCTS_DIR; };
-		F8615464247FE2F90074F69C /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		F8615464247FE2F90074F69C /* SampleSourcCode.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = SampleSourcCode.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,7 +57,7 @@
 		F8615463247FE2F90074F69C /* 2020BaekJoon */ = {
 			isa = PBXGroup;
 			children = (
-				F8615464247FE2F90074F69C /* main.cpp */,
+				F8615464247FE2F90074F69C /* SampleSourcCode.cpp */,
 			);
 			path = 2020BaekJoon;
 			sourceTree = "<group>";
@@ -119,7 +119,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				F8615465247FE2F90074F69C /* main.cpp in Sources */,
+				F8615465247FE2F90074F69C /* SampleSourcCode.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
