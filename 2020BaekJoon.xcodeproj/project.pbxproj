@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		F861546C247FE7410074F69C /* FloydWarshall_11404.cpp in Sources */ = {isa = PBXBuildFile; fileRef = F861546B247FE7410074F69C /* FloydWarshall_11404.cpp */; };
+		F8725D2F2482421C00A27455 /* 200530_LB(스트링편집거리).cpp in Sources */ = {isa = PBXBuildFile; fileRef = F8725D2E2482421C00A27455 /* 200530_LB(스트링편집거리).cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -26,6 +26,10 @@
 		F8615461247FE2F90074F69C /* 2020BaekJoon */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = 2020BaekJoon; sourceTree = BUILT_PRODUCTS_DIR; };
 		F8615464247FE2F90074F69C /* SampleSourcCode.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = SampleSourcCode.cpp; sourceTree = "<group>"; };
 		F861546B247FE7410074F69C /* FloydWarshall_11404.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = FloydWarshall_11404.cpp; sourceTree = "<group>"; };
+		F861546D248014550074F69C /* (냅색)평범한배낭_12865.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "(냅색)평범한배낭_12865.cpp"; sourceTree = "<group>"; };
+		F8725D2924821E5500A27455 /* 200530_숫자판놀이.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "200530_숫자판놀이.cpp"; sourceTree = "<group>"; };
+		F8725D2B2482271900A27455 /* 200530_치즈.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "200530_치즈.cpp"; sourceTree = "<group>"; };
+		F8725D2E2482421C00A27455 /* 200530_LB(스트링편집거리).cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "200530_LB(스트링편집거리).cpp"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -42,6 +46,7 @@
 		F8615458247FE2F90074F69C = {
 			isa = PBXGroup;
 			children = (
+				F8725D2724821E0E00A27455 /* 알고리즘설계 */,
 				F8615463247FE2F90074F69C /* 2020BaekJoon */,
 				F8615462247FE2F90074F69C /* Products */,
 			);
@@ -60,8 +65,20 @@
 			children = (
 				F8615464247FE2F90074F69C /* SampleSourcCode.cpp */,
 				F861546B247FE7410074F69C /* FloydWarshall_11404.cpp */,
+				F861546D248014550074F69C /* (냅색)평범한배낭_12865.cpp */,
 			);
 			path = 2020BaekJoon;
+			sourceTree = "<group>";
+		};
+		F8725D2724821E0E00A27455 /* 알고리즘설계 */ = {
+			isa = PBXGroup;
+			children = (
+				F8725D2924821E5500A27455 /* 200530_숫자판놀이.cpp */,
+				F8725D2B2482271900A27455 /* 200530_치즈.cpp */,
+				F8725D2E2482421C00A27455 /* 200530_LB(스트링편집거리).cpp */,
+			);
+			name = "알고리즘설계";
+			path = "알고리즘설계";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -121,7 +138,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				F861546C247FE7410074F69C /* FloydWarshall_11404.cpp in Sources */,
+				F8725D2F2482421C00A27455 /* 200530_LB(스트링편집거리).cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
